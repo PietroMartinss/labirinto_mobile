@@ -14,3 +14,5 @@ O aplicativo apresenta enredo, dados técnicos, elenco, curiosidades e links ofi
 1. Dados do filme
 2. Protótipo
 3. Descrição dos elementos
+
+https://github.com/PietroMartinss/labirinto_mobile/wiki/Dados-do-Filme
