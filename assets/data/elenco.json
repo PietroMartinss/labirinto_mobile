@@ -1,0 +1,23 @@
+[
+  {
+    "nome": "Jennifer Connelly",
+    "personagem": "Sarah",
+    "imagem": "assets/images/jennifer_connelly.jpg",
+    "descricao": "Jennifer Connelly interpreta Sarah, a protagonista que precisa atravessar o labirinto para salvar seu irmão.",
+    "siteOficial": null
+  },
+  {
+    "nome": "David Bowie",
+    "personagem": "Jareth",
+    "imagem": "assets/images/david_bowie.jpg",
+    "descricao": "David Bowie interpreta Jareth, o Rei dos Duendes.",
+    "siteOficial": "https://www.davidbowie.com/"
+  },
+  {
+    "nome": "Toby Froud",
+    "personagem": "Toby",
+    "imagem": "assets/images/toby_froud.jpg",
+    "descricao": "Toby Froud interpreta Toby, o irmão mais novo de Sarah.",
+    "siteOficial": null
+  }
+]
